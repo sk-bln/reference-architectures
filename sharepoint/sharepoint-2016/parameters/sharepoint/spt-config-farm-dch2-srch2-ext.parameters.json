@@ -48,11 +48,11 @@
               },
               "protectedSettingsConfig": {
                 "items": {
-                  "PassPhrasePassword": "AweS0me@PW",
-                  "FarmPassword": "AweS0me@PW",
-                  "SPSetupAccountPassword": "AweS0me@PW",
-                  "ServicePoolManagedAccount": "AweS0me@PW",
-                  "WebPoolManagedAccount": "AweS0me@PW"
+                  "PassPhrasePassword": "Die1istgut.",
+                  "FarmPassword": "Die1istgut.",
+                  "SPSetupAccountPassword": "Die1istgut.",
+                  "ServicePoolManagedAccount": "Die1istgut.",
+                  "WebPoolManagedAccount": "Die1istgut."
                 }
               }
 
@@ -103,11 +103,11 @@
               },
               "protectedSettingsConfig": {
                 "items": {
-                  "PassPhrasePassword": "AweS0me@PW",
-                  "FarmPassword": "AweS0me@PW",
-                  "SPSetupAccountPassword": "AweS0me@PW",
-                  "ServicePoolManagedAccount": "AweS0me@PW",
-                  "WebPoolManagedAccount": "AweS0me@PW"
+                  "PassPhrasePassword": "Die1istgut.",
+                  "FarmPassword": "Die1istgut.",
+                  "SPSetupAccountPassword": "Die1istgut.",
+                  "ServicePoolManagedAccount": "Die1istgut.",
+                  "WebPoolManagedAccount": "Die1istgut."
                 }
               }
 

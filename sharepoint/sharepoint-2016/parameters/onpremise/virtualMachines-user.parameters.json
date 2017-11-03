@@ -9,7 +9,7 @@
         "size": "Standard_DS1_v2",
         "osType": "windows",
         "adminUsername": "onpremuser",
-        "adminPassword": "AweS0me@PW",
+        "adminPassword": "Die1istgut.",
         "osAuthenticationType": "password",
         "nics": [
           {
@@ -53,7 +53,7 @@
             "Options": 3
             },
           "protectedSettingsConfig": {
-            "Password": "AweS0me@PW"
+            "Password": "Die1istgut."
             }
           } ],
         "availabilitySet": {

@@ -9,7 +9,7 @@
         "size": "Standard_DS3_v2",
         "osType": "Windows",
         "adminUsername": "onpremuser",
-        "adminPassword": "AweS0me@PW",
+        "adminPassword": "Die1istgut.",
         "osAuthenticationType": "password",
         "nics": [
           {

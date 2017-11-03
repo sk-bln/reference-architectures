@@ -17,7 +17,7 @@
               "settingsConfig": {
                 "activeDirectorySettings": {
                   "adminUser": "onpremuser",
-                  "adminPassword": "AweS0me@PW",
+                  "adminPassword": "Die1istgut.",
                   "domainName": "fabrikam.com",
                   "azureSiteName": "Azure-Vnet-Site",
                   "onPremiseSiteName": "Default-First-Site-Name",

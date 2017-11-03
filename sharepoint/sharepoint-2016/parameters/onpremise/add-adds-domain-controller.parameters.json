@@ -22,7 +22,7 @@
                 "Options": 3
               },
               "protectedSettingsConfig": {
-                "Password": "AweS0me@PW"
+                "Password": "Die1istgut."
               }
             },
             {
@@ -36,7 +36,7 @@
                 "activeDirectorySettings": {
                   "domainName": "fabrikam.com",
                   "adminUser": "onpremuser",
-                  "adminPassword": "AweS0me@PW",
+                  "adminPassword": "Die1istgut.",
                   "siteName": "Default-First-Site-Name",
                   "safeModePassword": "Saf3M0de@PW"
                 },

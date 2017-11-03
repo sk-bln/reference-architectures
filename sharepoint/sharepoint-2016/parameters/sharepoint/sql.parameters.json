@@ -52,7 +52,7 @@
         "size": "Standard_DS3_v2",
         "osType": "windows",
         "adminUsername": "testuser",
-        "adminPassword": "AweS0me@PW",
+        "adminPassword": "Die1istgut.",
         "sshPublicKey": "",
         "osAuthenticationType": "password",
         "nics": [
@@ -99,7 +99,7 @@
               "Options": 3
             },
             "protectedSettingsConfig": {
-              "Password": "AweS0me@PW"
+              "Password": "Die1istgut."
             }
           }
         ],

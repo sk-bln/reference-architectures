@@ -8,7 +8,7 @@ The following readme covers how to run scripts to setup the final part of SQL Al
 ## Step 1 : Set up SQL2 VM for Always-On with Availability Groups
 1. Login into the JumpBox "ra-sp2016-jb-vm1".
    * User : \testuser - note the jumpBox doesn't belong to any domain
-   * Password: AweS0me@PW
+   * Password: Die1istgut.
 2. Login into the SQL2 VM  "sql2.contoso.local"
    * User: contoso\testuser - the SQL VM are in the domain contoso.local
 3. Copy over the PowerShell script  from ./script/SetupAvailabilityGroup_SQL2.ps1 to a directory on SQL2 VM
